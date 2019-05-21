@@ -39,3 +39,9 @@ This project contains a simple Vagrantfile for spinning up a new Ubuntu 18 box. 
 ```
 vagrant up
 ```
+
+Fresh linux box
+
+```
+vagrant halt && vagrant destroy && vagrant up
+```
